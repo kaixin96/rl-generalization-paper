@@ -30,3 +30,6 @@ A list of papers regarding generalization in (deep) reinforcement learning
 
 ### 2017
 * [NeurIPS 2017] [Towards Generalization and Simplicity in Continuous Control](https://arxiv.org/abs/1703.02660)
+
+### 2011
+* [ADPRL 2011] [Protecting Against Evaluation Overfitting in Empirical Reinforcement Learning](https://www.cs.utexas.edu/users/ai-lab/pubs/ADPRL11-shimon.pdf)
