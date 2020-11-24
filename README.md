@@ -9,6 +9,7 @@ A list of papers regarding generalization in (deep) reinforcement learning
 * [NeurIPS 2020] [Instance based Generalization in Reinforcement Learning](https://arxiv.org/abs/2011.01089)
 * [NeurIPS 2020] [Improving Generalization in Reinforcement Learning with Mixture Regularization](https://arxiv.org/abs/2010.10814)
 * [NeurIPS 2020] [Reinforcement Learning with Augmented Data](https://arxiv.org/abs/2004.14990)
+* [ICML 2020] [Fast Adaptation to New Environments via Policy-Dynamics Value Functions](https://arxiv.org/abs/2007.02879)
 * [ICML 2020] [Leveraging Procedural Generation to Benchmark Reinforcement Learning](https://arxiv.org/abs/1912.01588)
 * [ICLR 2020] [Observational Overfitting in Reinforcement Learning](https://arxiv.org/abs/1912.02975)
 * [ICLR 2020] [Network Randomization: A Simple Technique for Generalization in Deep Reinforcement Learning](https://arxiv.org/abs/1910.05396)
