@@ -2,6 +2,7 @@
 A list of papers regarding generalization in (deep) reinforcement learning
 
 ### 2020
+* [arXiv 2020] [Generalization in Reinforcement Learning by Soft Data Augmentation](https://arxiv.org/abs/2011.13389)
 * [arXiv 2020] [Prioritized Level Replay](https://arxiv.org/abs/2010.03934)
 * [arXiv 2020] [Automatic Data Augmentation for Generalization in Reinforcement Learning](https://arxiv.org/abs/2006.12862)
 * [arXiv 2020] [The Impact of Non-stationarity on Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2006.05826)
