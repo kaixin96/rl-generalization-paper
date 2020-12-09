@@ -20,6 +20,7 @@ A list of papers regarding generalization in (deep) reinforcement learning
 * [ICML 2019] [On the Generalization Gap in Reparameterizable Reinforcement Learning](https://arxiv.org/abs/1905.12654)
 * [ICML 2019] [Quantifying Generalization in Reinforcement Learning](https://arxiv.org/abs/1812.02341)
 * [ICML 2019] [Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation](https://arxiv.org/abs/1806.07377)
+* [ICMLW 2019] [The Principle of Unchanged Optimality in Reinforcement Learning Generalization](https://arxiv.org/abs/1906.00336)
 
 ### 2018
 * [arXiv 2018] [Natural Environment Benchmarks for Reinforcement Learning](https://arxiv.org/abs/1811.06032)
