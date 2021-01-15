@@ -1,6 +1,10 @@
 # rl-generalization-paper
 A list of papers regarding generalization in (deep) reinforcement learning
 
+### 2021
+
+* [ICLR 2021] [Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning](https://arxiv.org/abs/2101.05265)
+
 ### 2020
 * [arXiv 2020] [Generalization in Reinforcement Learning by Soft Data Augmentation](https://arxiv.org/abs/2011.13389)
 * [arXiv 2020] [Prioritized Level Replay](https://arxiv.org/abs/2010.03934)
