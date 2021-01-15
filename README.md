@@ -4,13 +4,13 @@ A list of papers regarding generalization in (deep) reinforcement learning
 ### 2021
 
 * [ICLR 2021] [Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning](https://arxiv.org/abs/2101.05265)
+* [ICLR 2020] [Transient Non-stationarity and Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2006.05826)
+* [ICLR 2020] [Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels](https://arxiv.org/abs/2004.13649)
 
 ### 2020
 * [arXiv 2020] [Generalization in Reinforcement Learning by Soft Data Augmentation](https://arxiv.org/abs/2011.13389)
 * [arXiv 2020] [Prioritized Level Replay](https://arxiv.org/abs/2010.03934)
 * [arXiv 2020] [Automatic Data Augmentation for Generalization in Reinforcement Learning](https://arxiv.org/abs/2006.12862)
-* [arXiv 2020] [The Impact of Non-stationarity on Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2006.05826)
-* [arXiv 2020] [Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels](https://arxiv.org/abs/2004.13649)
 * [NeurIPS 2020] [Instance based Generalization in Reinforcement Learning](https://arxiv.org/abs/2011.01089)
 * [NeurIPS 2020] [Improving Generalization in Reinforcement Learning with Mixture Regularization](https://arxiv.org/abs/2010.10814)
 * [NeurIPS 2020] [Reinforcement Learning with Augmented Data](https://arxiv.org/abs/2004.14990)
