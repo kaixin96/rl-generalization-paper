@@ -3,6 +3,7 @@ A list of papers regarding generalization in (deep) reinforcement learning
 
 ### 2021
 
+* [arXiv 2021] [Sparse Attention Guided Dynamic Value Estimation for Single-Task Multi-Scene Reinforcement Learning](https://arxiv.org/abs/2102.07266)
 * [ICLR 2021] [Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning](https://arxiv.org/abs/2101.05265)
 * [ICLR 2021] [Transient Non-stationarity and Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2006.05826)
 * [ICLR 2021] [Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels](https://arxiv.org/abs/2004.13649)
