@@ -1,5 +1,5 @@
 # rl-generalization-paper
-A list of papers regarding generalization in (deep) reinforcement learning
+A list of papers regarding generalization in (deep) reinforcement learning. Please feel free to open an issue to add papers.
 
 ### 2021
 
@@ -11,6 +11,8 @@ A list of papers regarding generalization in (deep) reinforcement learning
 * [ICLR 2021] [Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels](https://arxiv.org/abs/2004.13649)
 
 ### 2020
+
+* [Procgen Challenge 2020] [Measuring Sample Efficiency and Generalization in Reinforcement Learning Benchmarks](https://arxiv.org/abs/2103.15332)
 * [arXiv 2020] [Generalization in Reinforcement Learning by Soft Data Augmentation](https://arxiv.org/abs/2011.13389)
 * [arXiv 2020] [Prioritized Level Replay](https://arxiv.org/abs/2010.03934)
 * [arXiv 2020] [Automatic Data Augmentation for Generalization in Reinforcement Learning](https://arxiv.org/abs/2006.12862)
