@@ -3,6 +3,7 @@ A list of papers regarding generalization in (deep) reinforcement learning. Plea
 
 ### 2021
 
+* [arXiv 2021] [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277)
 * [arXiv 2021] [Generalization of Reinforcement Learning with Policy-Aware Adversarial Data Augmentation](https://arxiv.org/abs/2106.15587)
 * [arXiv 2021] [Cross-Trajectory Representation Learning for Zero-Shot Generalization in RL](https://arxiv.org/abs/2106.02193)
 * [arXiv 2021] [Robust Deep Reinforcement Learning via Multi-View Information Bottleneck](https://arxiv.org/abs/2102.13268)
