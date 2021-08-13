@@ -8,6 +8,7 @@ A list of papers regarding generalization in (deep) reinforcement learning. Plea
 * [arXiv 2021] [Cross-Trajectory Representation Learning for Zero-Shot Generalization in RL](https://arxiv.org/abs/2106.02193)
 * [arXiv 2021] [Robust Deep Reinforcement Learning via Multi-View Information Bottleneck](https://arxiv.org/abs/2102.13268)
 * [arXiv 2021] [Sparse Attention Guided Dynamic Value Estimation for Single-Task Multi-Scene Reinforcement Learning](https://arxiv.org/abs/2102.07266)
+* [ICML 2021] [Augmented World Models Facilitate Zero-Shot Dynamics Generalization From a Single Offline Environment](https://arxiv.org/abs/2104.05632)
 * [ICML 2021] [Decoupling Value and Policy for Generalization in Reinforcement Learning](https://arxiv.org/abs/2102.10330)
 * [ICRA 2021] [Generalization in Reinforcement Learning by Soft Data Augmentation](https://arxiv.org/abs/2011.13389)
 * [ICLR 2021] [Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning](https://arxiv.org/abs/2101.05265)
