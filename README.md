@@ -11,6 +11,7 @@ A list of papers regarding generalization in (deep) reinforcement learning. Plea
 * [NeurIPS 2021] [Automatic Data Augmentation for Generalization in Reinforcement Learning](https://arxiv.org/abs/2006.12862)
 * [ICML 2021] [Augmented World Models Facilitate Zero-Shot Dynamics Generalization From a Single Offline Environment](https://arxiv.org/abs/2104.05632)
 * [ICML 2021] [Decoupling Value and Policy for Generalization in Reinforcement Learning](https://arxiv.org/abs/2102.10330)
+* [ICML 2021] [Prioritized Level Replay](https://arxiv.org/abs/2010.03934)
 * [ICRA 2021] [Generalization in Reinforcement Learning by Soft Data Augmentation](https://arxiv.org/abs/2011.13389)
 * [ICLR 2021] [Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning](https://arxiv.org/abs/2101.05265)
 * [ICLR 2021] [Transient Non-stationarity and Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2006.05826)
@@ -19,7 +20,6 @@ A list of papers regarding generalization in (deep) reinforcement learning. Plea
 ### 2020
 
 * [Procgen Challenge 2020] [Measuring Sample Efficiency and Generalization in Reinforcement Learning Benchmarks](https://arxiv.org/abs/2103.15332)
-* [arXiv 2020] [Prioritized Level Replay](https://arxiv.org/abs/2010.03934)
 * [NeurIPS 2020] [Instance based Generalization in Reinforcement Learning](https://arxiv.org/abs/2011.01089)
 * [NeurIPS 2020] [Improving Generalization in Reinforcement Learning with Mixture Regularization](https://arxiv.org/abs/2010.10814)
 * [NeurIPS 2020] [Reinforcement Learning with Augmented Data](https://arxiv.org/abs/2004.14990)
