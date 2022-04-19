@@ -1,6 +1,10 @@
 # rl-generalization-paper
 A list of papers regarding generalization in (deep) reinforcement learning. Please feel free to open an issue to add papers.
 
+### 2022
+
+* [ICLR 2022] [Local Feature Swapping for Generalization in Reinforcement Learning](https://arxiv.org/abs/2204.06355)
+
 ### 2021
 
 * [arXiv 2021] [Recurrent Model-Free RL is a Strong Baseline for Many POMDPs](https://arxiv.org/abs/2110.05038)
