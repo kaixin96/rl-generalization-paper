@@ -3,6 +3,7 @@ A list of papers regarding generalization in (deep) reinforcement learning. Plea
 
 ### 2022
 
+* [ICML 2022] [Improving Policy Optimization with Generalist-Specialist Learning](https://arxiv.org/abs/2206.12984)
 * [ICLR 2022] [Local Feature Swapping for Generalization in Reinforcement Learning](https://arxiv.org/abs/2204.06355)
 
 ### 2021
