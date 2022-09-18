@@ -3,6 +3,7 @@ A list of papers regarding generalization in (deep) reinforcement learning. Plea
 
 ### 2022
 
+* [NeurIPS 2022] [Generalizing Goal-Conditioned Reinforcement Learning with Variational Causal Reasoning](https://arxiv.org/abs/2207.09081)
 * [OpenReview 2022] [Adversarial Style Transfer for Robust Policy Optimization in Reinforcement Learning](https://openreview.net/forum?id=S0NsaRIxvQ)
 * [ICML 2022] [Improving Policy Optimization with Generalist-Specialist Learning](https://arxiv.org/abs/2206.12984)
 * [ICML 2022] [DRIBO: Robust Deep Reinforcement Learning via Multi-View Information Bottleneck](https://arxiv.org/abs/2102.13268)
