@@ -15,9 +15,9 @@ A list of papers regarding generalization in (deep) reinforcement learning. Plea
 ### 2021
 
 * [arXiv 2021] [A Survey of Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2111.09794)
-* [arXiv 2021] [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277)
 * [arXiv 2021] [Generalization of Reinforcement Learning with Policy-Aware Adversarial Data Augmentation](https://arxiv.org/abs/2106.15587)
 * [arXiv 2021] [Sparse Attention Guided Dynamic Value Estimation for Single-Task Multi-Scene Reinforcement Learning](https://arxiv.org/abs/2102.07266)
+* [NeurIPS 2021] [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277)
 * [NeurIPS 2021] [Automatic Data Augmentation for Generalization in Reinforcement Learning](https://arxiv.org/abs/2006.12862)
 * [ICML 2021] [Augmented World Models Facilitate Zero-Shot Dynamics Generalization From a Single Offline Environment](https://arxiv.org/abs/2104.05632)
 * [ICML 2021] [Decoupling Value and Policy for Generalization in Reinforcement Learning](https://arxiv.org/abs/2102.10330)
