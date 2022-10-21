@@ -9,6 +9,7 @@ A list of papers regarding generalization in (deep) reinforcement learning. Plea
 * [ICML 2022] [Improving Policy Optimization with Generalist-Specialist Learning](https://arxiv.org/abs/2206.12984)
 * [ICML 2022] [Recurrent Model-Free RL is a Strong Baseline for Many POMDPs](https://arxiv.org/abs/2110.05038)
 * [ICML 2022] [DRIBO: Robust Deep Reinforcement Learning via Multi-View Information Bottleneck](https://arxiv.org/abs/2102.13268)
+* [ICLRW 2022] [A Study of Off-Policy Learning in Environments with Procedural Content Generation](https://openreview.net/forum?id=Bl4SmwWUZ5)
 * [ICLR 2022] [Local Feature Swapping for Generalization in Reinforcement Learning](https://arxiv.org/abs/2204.06355)
 * [ICLR 2022] [Cross-Trajectory Representation Learning for Zero-Shot Generalization in RL](https://arxiv.org/abs/2106.02193)
 
