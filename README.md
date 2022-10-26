@@ -3,6 +3,7 @@ A list of papers regarding generalization in (deep) reinforcement learning. Plea
 
 ### 2022
 
+* [NeurIPS 2022] [Rethinking Value Function Learning for Generalization in Reinforcement Learning](https://arxiv.org/abs/2210.09960)
 * [NeurIPS 2022] [Generalizing Goal-Conditioned Reinforcement Learning with Variational Causal Reasoning](https://arxiv.org/abs/2207.09081)
 * [NeurIPS 2022] [Improving Zero-shot Generalization in Offline Reinforcement Learning using Generalized Similarity Functions](https://arxiv.org/abs/2111.14629)
 * [OpenReview 2022] [Adversarial Style Transfer for Robust Policy Optimization in Reinforcement Learning](https://openreview.net/forum?id=S0NsaRIxvQ)
