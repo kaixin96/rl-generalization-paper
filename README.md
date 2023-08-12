@@ -1,6 +1,14 @@
 # rl-generalization-paper
 A list of papers regarding generalization in (deep) reinforcement learning. Please feel free to open an issue to add papers.
 
+### 2023
+
+* [ICLR 2023] [Investigating Multi-Task Pretraining and Generalization in Reinforcement Learning](https://openreview.net/forum?id=sSt9fROSZRO)
+* [ICLR 2023] [Can Agents Run Relay Race with Strangers? Generalization of RL to Out-of-Distribution Trajectories](https://arxiv.org/abs/2304.13424)
+* [ICML2023] [Model-agnostic Measure of Generalization Difficulty](https://arxiv.org/abs/2305.01034)
+* [ICML2023] [On the Power of Pre-training for Generalization in RL: Provable Benefits and Hardness](https://arxiv.org/abs/2210.10464)
+* [ICML2023] [The Benefits of Model-Based Generalization in Reinforcement Learning](https://arxiv.org/abs/2211.02222)
+
 ### 2022
 
 * [NeurIPS 2022] [Rethinking Value Function Learning for Generalization in Reinforcement Learning](https://arxiv.org/abs/2210.09960)
